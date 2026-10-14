@@ -1,6 +1,6 @@
-#я крутой :smile:
-﻿
-#that's new file okay
+# я крутой :smile:
+
+# that's new file okay
 
 **жирный**
 
